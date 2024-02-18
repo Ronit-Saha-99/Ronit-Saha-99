@@ -3,7 +3,7 @@ BCA Student 📓 | WordPress Website Developer  | Web Pentester 👨‍💻 | Et
 
 
 
-Skills: Penetration Testing - Web Application | Wireless Hacking| WordPress Web Development
+Skills: Penetration Testing - Web Application | Wireless Hacking | WordPress Web Development
 
   
     🌱 I’m currently learning Web App Hacking and Wireless Hacking
